@@ -1,4 +1,4 @@
-# 👾 NEMPY
+# 👾 Network Tools
  
 *Network Manager Python Script*
 
